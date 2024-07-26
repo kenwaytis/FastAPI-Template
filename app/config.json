@@ -1,0 +1,8 @@
+{
+    "logging_config": {
+        "logging_level": "DEBUG",
+        "log_file": "/home/data/service.log",
+        "rotation": "5 MB",
+        "retention": "30 days"
+    }
+}
